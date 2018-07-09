@@ -1,6 +1,9 @@
 *.exe
 *.db
 *.opendb
+*.sdf
+*.opensdf
+*.suo
 .vs
 Debug
 Release

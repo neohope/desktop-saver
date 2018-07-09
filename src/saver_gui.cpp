@@ -44,7 +44,7 @@ DesktopSaverGui *DesktopSaverGui::c_gui;
 
 DesktopSaverGui::DesktopSaverGui(HINSTANCE hinst)
 {
-   const wstring qualifiedName = wstring(DesktopSaverName) + L" "s + wstring(DesktopSaverVersion);
+   const wstring qualifiedName = wstring(DesktopSaverName) + L" " + wstring(DesktopSaverVersion);
 
    m_hinstance = hinst;
 
